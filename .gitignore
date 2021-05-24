@@ -138,5 +138,5 @@ dmypy.json
 cython_debug/
 
 # don't commit github access token file
-./Scripts/github_access_token.py
-./Scripts/README.md
+Resources/Scripts/github_access_token.py
+Resources/Scripts/README.md
