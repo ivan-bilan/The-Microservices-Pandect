@@ -59,11 +59,19 @@ Unlike [The NLP Pandect](https://github.com/ivan-bilan/The-NLP-Pandect), this re
 * [ArgoCD](https://argoproj.github.io/argo-cd/) - A declarative, GitOps continuous delivery tool for Kubernetes
 -----
 
-### Databases:
-#### General
+### Stateful Workloads:
+#### Databases and Operators
+##### General
+* [OperatorHub.io](https://operatorhub.io/) - OperatorHub.io is a resource for the Kubernetes community to find and share Operators
+##### In-memory
 * [redis](https://redis.io) - Redis is an open source, in-memory data structure store
+##### MySQL
 * [vitess](https://github.com/fluxcd/flagger) - Canary, A/B Testing and Blue/Green deployments for Kubernetes [GitHub, 2921 stars]
-
+##### PostgreSQL
+* [CrunchyData](https://github.com/CrunchyData/postgres-operator) [GitHub, 1700 stars]
+##### OLAP
+* [Druid](https://github.com/apache/druid/) [GitHub, 11000 stars]
+* [ClickHouse](https://clickhouse.tech/)
 -----
 
 
