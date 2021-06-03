@@ -96,13 +96,14 @@ Unlike [The NLP Pandect](https://github.com/ivan-bilan/The-NLP-Pandect), this re
 * All linked resources belong to original authors
 
 #### Icons
-* [skill book](https://thenounproject.com/search/?q=ancient+greek+book&i=3367528) by HideMaru from the Noun Project
-* [Harp]() by Marina Pugacheva from the Noun Project
-* [Ancient Greek Theater](https://thenounproject.com/search/?q=greek+theater&i=38701) by Leonidas Oikonomou from the Noun Project
-* [deity](https://thenounproject.com/term/deity/3156641/) by Eucalyp from the Noun Project
-* [trojan](https://thenounproject.com/term/trojan/3158946/) by Eucalyp from the Noun Project
-* [Fire Torch](https://thenounproject.com/term/fire-torch/3719083/) by Eucalyp from the Noun Project
-* [acropolis](https://thenounproject.com/eucalyp/collection/ancient-greece-line-00000177/?i=3719071) by Eucalyp from the Noun Project
+* [skill book](https://thenounproject.com/search/?q=ancient+greek+book&i=3367528) by HideMaru from the [Noun Project](https://thenounproject.com)
+* [Harp]() by Marina Pugacheva from the [Noun Project](https://thenounproject.com)
+* [Ancient Greek Theater](https://thenounproject.com/search/?q=greek+theater&i=38701) by Leonidas Oikonomou from the [Noun Project](https://thenounproject.com)
+* [deity](https://thenounproject.com/term/deity/3156641/) by Eucalyp from the [Noun Project](https://thenounproject.com)
+* [trojan](https://thenounproject.com/term/trojan/3158946/) by Eucalyp from the [Noun Project](https://thenounproject.com)
+* [Fire Torch](https://thenounproject.com/term/fire-torch/3719083/) by Eucalyp from the [Noun Project](https://thenounproject.com)
+* [acropolis](https://thenounproject.com/eucalyp/collection/ancient-greece-line-00000177/?i=3719071) by Eucalyp from the [Noun Project](https://thenounproject.com)
+* [papyrus](https://thenounproject.com/iconmark/collection/greek-mythology/?i=3515982) by IconMark from the [Noun Project](https://thenounproject.com)
 
 #### Fonts
 * [Dalek Font](https://www.dafont.com/dalek.font) 
