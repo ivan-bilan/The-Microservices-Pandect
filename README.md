@@ -4,30 +4,32 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 
 Unlike [The NLP Pandect](https://github.com/ivan-bilan/The-NLP-Pandect), this repository is still in its early stages.
 
------
 
-### Essential Reading:
+
+![Essential-Reading](./Resources/Images/reading_section.png)
+-----
+#### Blog posts
 * [Microservices (Martin Fawler & James Lewis)](https://martinfowler.com/articles/microservices.html) [Blog, March 2014]
 * [The Architecture Behind A One-Person Tech Startup](https://anthonynsimon.com/blog/one-man-saas-architecture/) [Blog, April 2021]
------
 
-### Staying up-to-date
-#### Podcasts
+![Podcasts](./Resources/Images/podcasts.png)
+-----
 * [Kubernetes Podcast](https://kubernetespodcast.com) - Kubernetes Podcast from Google [Years: 2018 - now, Status: active]
 * [PodCTL](https://www.podctl.com) - PodCTL is a podcast focused on Cloud-native applications (by Red Hat OpenShift team) [Years: 2017 - now, Status: active]
 * [Data Engineering Podcast](https://www.dataengineeringpodcast.com) - Data management, microservices, ETL and more [Years: 2017 - now, Status: active]
 * [The Secure Developer](https://www.devseccon.com/the-secure-developer-podcast/) - A podcast about security for developers, covering tools and best practices [Years: 2017 - now, Status: active]
 * [APIs you won't hate](https://apisyouwonthate.com/podcast/) - podcst about news in the world of building and designing APIs [Years: 2019 - now, Status: active]
 
-#### YouTube Channels
+![Youtube-Channels](./Resources/Images/youtube_channels.png)
+-----
 * [Continuous Delivery](https://www.youtube.com/channel/UCCfqyGl3nq_V0bo64CjZh8g)
 * [CNCF - Cloud Native Computing Foundation](https://www.youtube.com/channel/UCvqbFHwN-nwalWPjPUKpvTA)
 * [GOTO Conferences](https://www.youtube.com/channel/UCs_tLP3AiwYKwdUHpltJPuA)
 * [CloudBeesTV](https://www.youtube.com/channel/UCKlF3GIFy9KVUefVbycx_vw)
 * [Containers from the Couch](https://www.youtube.com/channel/UCYg157Qy_U7ZR1WUHTq0Q8Q)
------
 
-### Observability
+![Observability](./Resources/Images/observability.png)
+-----
 #### Error & Logging
 * [grafana](https://github.com/grafana/grafana) - observability and data visualization platform [GitHub, 41701 stars]
 * [loki](https://github.com/grafana/loki) - Loki is a horizontally-scalable, highly-available, multi-tenant log aggregation system [GitHub, 12987 stars]
@@ -36,20 +38,19 @@ Unlike [The NLP Pandect](https://github.com/ivan-bilan/The-NLP-Pandect), this re
 * [Prometheus](https://prometheus.io) - open-source systems monitoring and alerting toolkit
 * [kubewatch](https://github.com/bitnami-labs/kubewatch) - Watch k8s events and trigger Handlers [GitHub, 1967 stars]
 * [cortex](https://github.com/cortexproject/cortex) - multi-tenant, long term Prometheus [GitHub, 3979 stars]
------
 
-### DevSecOps:
+![Security](./Resources/Images/security.png)
+-----
 #### Tools:
 * [kubesploit](https://github.com/cyberark/kubesploit) - Cross-platform post-exploitation HTTP/2 Command & Control server [GitHub, 454 stars]
 * [sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) - A Kubernetes controller and tool for one-way encrypted Secrets [GitHub, 3433 stars]
 * [Vault](https://www.vaultproject.io) - Manage Secrets and Protect Sensitive Data
 * [consul](https://www.consul.io) - Consul automates networking for simple and secure application delivery
+
+
+![Deployment](./Resources/Images/deployment.png)
 -----
-
-### Deployments
-#### Zero Downtime Deploys:
-##### Essential Reading:
-
+#### Zero Downtime Deploys
 ##### Tools:
 * [flagger](https://github.com/fluxcd/flagger) - Canary, A/B Testing and Blue/Green deployments for Kubernetes [GitHub, 2921 stars]
 
@@ -57,9 +58,10 @@ Unlike [The NLP Pandect](https://github.com/ivan-bilan/The-NLP-Pandect), this re
 ##### Tools:
 * [flux](https://github.com/fluxcd/flux) - The GitOps Kubernetes operator [GitHub, 6351 stars]
 * [ArgoCD](https://argoproj.github.io/argo-cd/) - A declarative, GitOps continuous delivery tool for Kubernetes
------
 
-### Stateful Workloads:
+
+![Stateful-Workloads](./Resources/Images/stateful_workloads.png)
+-----
 #### Databases and Operators
 ##### General
 * [OperatorHub.io](https://operatorhub.io/) - OperatorHub.io is a resource for the Kubernetes community to find and share Operators
@@ -72,10 +74,10 @@ Unlike [The NLP Pandect](https://github.com/ivan-bilan/The-NLP-Pandect), this re
 ##### OLAP
 * [Druid](https://github.com/apache/druid/) [GitHub, 11000 stars]
 * [ClickHouse](https://clickhouse.tech/)
+
+
+![Other](./Resources/Images/other_topics.png)
 -----
-
-
-### Other Topics
 #### Streaming
 * [strimzi](https://github.com/strimzi/strimzi-kafka-operator) - Apache Kafka running on Kubernetes [GitHub, 2412 stars]
 
@@ -85,7 +87,7 @@ Unlike [The NLP Pandect](https://github.com/ivan-bilan/The-NLP-Pandect), this re
 
 #### Effective Containerization
 * [distroless](https://github.com/GoogleContainerTools/distroless) - Language focused docker images, minus the operating system [GitHub, 9644 stars]
------
+
 
 ## License [CC0](./LICENSE)
 
@@ -94,7 +96,13 @@ Unlike [The NLP Pandect](https://github.com/ivan-bilan/The-NLP-Pandect), this re
 * All linked resources belong to original authors
 
 #### Icons
-*
+* [skill book](https://thenounproject.com/search/?q=ancient+greek+book&i=3367528) by HideMaru from the Noun Project
+* [Harp]() by Marina Pugacheva from the Noun Project
+* [Ancient Greek Theater](https://thenounproject.com/search/?q=greek+theater&i=38701) by Leonidas Oikonomou from the Noun Project
+* [deity](https://thenounproject.com/term/deity/3156641/) by Eucalyp from the Noun Project
+* [trojan](https://thenounproject.com/term/trojan/3158946/) by Eucalyp from the Noun Project
+* [Fire Torch](https://thenounproject.com/term/fire-torch/3719083/) by Eucalyp from the Noun Project
+* [acropolis](https://thenounproject.com/eucalyp/collection/ancient-greece-line-00000177/?i=3719071) by Eucalyp from the Noun Project
 
 #### Fonts
 * [Dalek Font](https://www.dafont.com/dalek.font) 
