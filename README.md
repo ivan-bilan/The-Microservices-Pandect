@@ -25,6 +25,9 @@ Other Pandects from the series:
 * [Cloud Native Computing Foundation - CNCF](https://www.cncf.io/projects/) - list of graduated and incubating projects
 * [Everything AWS](https://app.polymersearch.com/discover/aws) - GitHub search and catalogue of AWS-related repositories
 
+#### Roadmaps
+* [Containers Roadmap](https://github.com/aws/containers-roadmap) - public roadmap for AWS container services [GitHub, 3700 stars]
+
 ![Podcasts](./Resources/Images/podcasts.png)
 -----
 * [Kubernetes Podcast](https://kubernetespodcast.com) - Kubernetes Podcast from Google [Years: 2018 - now, Status: active]
@@ -65,13 +68,22 @@ Other Pandects from the series:
 
 ![Security](./Resources/Images/security.png)
 -----
-#### Tools:
+#### General Tools
 * [kubesploit](https://github.com/cyberark/kubesploit) - Cross-platform post-exploitation HTTP/2 Command & Control server [GitHub, 454 stars]
-* [sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) - A Kubernetes controller and tool for one-way encrypted Secrets [GitHub, 3433 stars]
-* [Vault](https://www.vaultproject.io) - Manage Secrets and Protect Sensitive Data
 * [consul](https://www.consul.io) - Consul automates networking for simple and secure application delivery
 * [Komiser](https://github.com/mlabouardy/komiser) - Multi-cloud environment inspector for costs and security [GitHub, 2600 stars]
+* [tfsec](https://github.com/tfsec/tfsec) - Security scanner for your Terraform code [GitHub, 2800 stars]
+* 
+#### Security Audit Tools
 * [kube-bench](https://github.com/aquasecurity/kube-bench) - Checks usage of security best practices as defined in the CIS Kubernetes Benchmark [GitHub, 3800 stars]
+* [Prowler](https://github.com/toniblyx/prowler) - security tool to perform AWS security best practices assessments [GitHub, 3500 stars]
+* [ScoutSuite](https://github.com/toniblyx/prowler) - Multi-Cloud Security Auditing Tool [GitHub, 3200 stars]
+
+#### Secrets
+* [sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) - A Kubernetes controller and tool for one-way encrypted Secrets [GitHub, 3433 stars]
+* [Vault](https://www.vaultproject.io) - Manage Secrets and Protect Sensitive Data
+* [aws-vault](https://github.com/99designs/aws-vault) - securely store and access AWS credentials in development environments [GitHub, 5000 stars]
+* [SOPS: Secrets OPerationS](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets on any platform [GitHub, 7600 stars] 
 
 #### Protocols
 * [Kerberos](https://web.mit.edu/kerberos/)
@@ -82,6 +94,10 @@ Other Pandects from the series:
 * [Dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider [GitHub, 5800 stars]
 * [Kong](https://github.com/Kong/kong) - Cloud-Native API Gateway [GitHub, 29300 stars]
 * [Gloo Edge](https://github.com/solo-io/gloo) - Kubernetes-native API Gateway Built on Envoy [GitHub, 2930 stars]
+
+#### Other
+* [Awesome WAF](https://github.com/0xInfection/Awesome-WAF) - Everything about web-application firewalls (WAF) [GitHub, 3600 stars]
+* [PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - Learn ethical hacking [GitHub, 8100 stars]
 
 ![Deployment](./Resources/Images/deployment.png)
 -----
@@ -100,6 +116,10 @@ Other Pandects from the series:
 ##### Additional Tooling
 * [Terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform)  [GitHub, 4900 stars]
 * [Checkov](https://github.com/bridgecrewio/checkov) - static code analysis tool for infrastructure-as-code [GitHub, 2800 stars]
+
+##### Examples and Learning Resources
+* [Ansible for DevOps examples](https://github.com/geerlingguy/ansible-for-devops) [GitHub, 4600 stars]
+* [Ansible for Kubernetes Examples](https://github.com/geerlingguy/ansible-for-kubernetes) [GitHub, 440 stars]
 
 #### General Deployment Tools
 * [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster [GitHub, 10700 stars]
@@ -170,6 +190,7 @@ Other Pandects from the series:
 
 ##### General Tools
 * [Komiser](https://github.com/mlabouardy/komiser) - Multi-cloud environment inspector for costs and security [GitHub, 2600 stars]
+* [Infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in your CLI and pull requests [GitHub, 3100 stars]
 
 #### Serverless
 ##### General
@@ -189,8 +210,6 @@ Other Pandects from the series:
 * [Dapr](https://github.com/dapr/dapr) - portable, serverless, event-driven runtime for stateless and stateful microservices [GitHub, 13600 stars]
 * [Nuclio](https://github.com/nuclio/nuclio) - High-Performance Serverless event and data processing platform [GitHub, 3900 stars]
 
-##### Emulation
-* [Serverless Offline](https://github.com/dherault/serverless-offline) - Emulate AWS λ and API Gateway locally [GitHub, 4100 stars] 
 
 #### Stories from the Industry
 * [Kubernetes Failure Stories](https://k8s.af/)
@@ -199,6 +218,15 @@ Other Pandects from the series:
 
 #### Container Network Interface (CNI)
 * [CNI](https://github.com/containernetworking/cni) - networking for Linux containers [GitHub, 3500 stars] 
+
+#### Testing
+* [Terratest](https://github.com/gruntwork-io/terratest) - Go library to write automated tests for your infrastructure code [GitHub, 5300 stars] 
+* [Serverless Offline](https://github.com/dherault/serverless-offline) - Emulate AWS λ and API Gateway locally [GitHub, 4100 stars] 
+* [Moto](https://github.com/spulec/moto) -  easily mock out tests based on AWS infrastructure [GitHub, 4700 stars]
+* [LocalStack](https://github.com/spulec/moto) -  fully functional local AWS cloud stack [GitHub, 30600 stars]
+
+#### PaaS - Platform-as-a-service
+* [Empire](https://github.com/remind101/empire) - PaaS built on top of Amazon EC2 Container Service with Heroku like workflow [GitHub, 2600 stars] 
 
 #### Learning, Courses, Examples etc.
 ##### Kafka
@@ -216,6 +244,9 @@ Other Pandects from the series:
 ##### DevOps
 * [DevOps Guide](https://github.com/Tikam02/DevOps-Guide) - from basic to advanced with Interview Questions and Notes [GitHub, 3677 stars]
 * [DevOps Exercises](https://github.com/bregman-arie/devops-exercises) - questions and exercises on technical topics related to DevOps and SRE [GitHub, 8500 stars]
+
+##### Docker
+* [Docker Curriculum](https://github.com/prakhar1989/docker-curriculum) - comprehensive tutorial on getting started with Docker [GitHub, 4200 stars] 
 
 -----
 ## License [CC0](./LICENSE)
