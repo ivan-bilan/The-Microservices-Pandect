@@ -86,6 +86,7 @@ Other Pandects from the series:
 ![Deployment](./Resources/Images/deployment.png)
 -----
 #### Infrastructure as Code
+##### IaC Tools
 * [Terraform](https://www.terraform.io/) - open-source infrastructure as code software tool for consistent CLI workflow
 * [CloudFormation](https://aws.amazon.com/cloudformation/) - cloud provisioning with infrastructure as code for AWS
 * [Azure Resource Manager](https://azure.microsoft.com/en-us/features/resource-manager/) - manage your app resources on Azure
@@ -95,7 +96,13 @@ Other Pandects from the series:
 * [Ansible](https://www.ansible.com/) - automation across open hybrid cloud deployments
 * [CHEF](https://www.chef.io/products/chef-infra) - Policy-Based Configuration Management Automation Architecture
 * [Pulumi](https://github.com/pulumi/pulumi) - Modern Infrastructure as Code. Any cloud, any language [GitHub, 8900 stars]
+
+##### Additional Tooling
 * [Terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform)  [GitHub, 4900 stars]
+* [Checkov](https://github.com/bridgecrewio/checkov) - static code analysis tool for infrastructure-as-code [GitHub, 2800 stars]
+
+#### General Deployment Tools
+* [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster [GitHub, 10700 stars]
 
 #### Zero Downtime Deploys
 ##### Tools:
@@ -156,6 +163,7 @@ Other Pandects from the series:
 
 ##### AWS
 * [Spot Fleet](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/spot-fleet.html) [AWS Services]
+* [AutoSpotting](https://github.com/AutoSpotting/AutoSpotting) - open source spot market automation tool for EC2 [GitHub, 1900 stars]
 
 ##### Autoscaling
 * [keda](https://github.com/kedacore/keda) - Kubernetes-based Event Driven Autoscaling [GitHub, 3218 stars]
@@ -186,8 +194,13 @@ Other Pandects from the series:
 
 #### Stories from the Industry
 * [Kubernetes Failure Stories](https://k8s.af/)
+* [How they AWS](https://github.com/upgundecha/howtheyaws) - curated collection of resources on how organizations use AWS [GitHub, 418 stars] 
+* [This is My Architecture](https://aws.amazon.com/architecture/this-is-my-architecture/) - Innovative cloud architectures from AWS partners and customers [Video Series, AWS]
 
-#### Learning, Coursse, Examples etc.
+#### Container Network Interface (CNI)
+* [CNI](https://github.com/containernetworking/cni) - networking for Linux containers [GitHub, 3500 stars] 
+
+#### Learning, Courses, Examples etc.
 ##### Kafka
 * [Learn Apache Kafka by Confluent](https://developer.confluent.io/)
 
