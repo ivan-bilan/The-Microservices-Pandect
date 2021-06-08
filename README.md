@@ -41,16 +41,17 @@ Other Pandects from the series:
 * [Kubernetes Podcast](https://kubernetespodcast.com) - Kubernetes Podcast from Google [Years: 2018 - now, Status: active]
 * [Data Engineering Podcast](https://www.dataengineeringpodcast.com) - Data management, microservices, ETL and more [Years: 2017 - now, Status: active]
 * [The Secure Developer](https://www.devseccon.com/the-secure-developer-podcast/) - A podcast about security for developers [Years: 2017 - now, Status: active]
-* [APIs you won't hate](https://apisyouwonthate.com/podcast/) - podcast about news in the world of building and designing APIs [Years: 2019 - now, Status: active]
+* [APIs you won't hate](https://apisyouwonthate.com/podcast/) - podcast about building and designing APIs [Years: 2019 - now, Status: active]
 
 ![Youtube-Channels](./Resources/Images/youtube_channels.png)
 -----
-* [Continuous Delivery](https://www.youtube.com/channel/UCCfqyGl3nq_V0bo64CjZh8g)
-* [CNCF - Cloud Native Computing Foundation](https://www.youtube.com/channel/UCvqbFHwN-nwalWPjPUKpvTA)
-* [GOTO Conferences](https://www.youtube.com/channel/UCs_tLP3AiwYKwdUHpltJPuA)
-* [Snyk](https://www.youtube.com/c/Snyksec/videos)
-* [CloudBeesTV](https://www.youtube.com/channel/UCKlF3GIFy9KVUefVbycx_vw)
-* [Containers from the Couch](https://www.youtube.com/channel/UCYg157Qy_U7ZR1WUHTq0Q8Q)
+* [Continuous Delivery](https://www.youtube.com/channel/UCCfqyGl3nq_V0bo64CjZh8g) - Continuous Delivery Pipelines and Processes [Youtube, 57k Subscribers]
+* [CNCF - Cloud Native Computing Foundation](https://www.youtube.com/channel/UCvqbFHwN-nwalWPjPUKpvTA) - provides educational and informative content on cloud native computing [Youtube, 65k Subscribers]
+* [Snyk](https://www.youtube.com/c/Snyksec/videos) - build cloud native applications securely [Youtube, 2k Subscribers]
+* [CloudBeesTV](https://www.youtube.com/channel/UCKlF3GIFy9KVUefVbycx_vw) - cloud conferences from the end-to-end automated software delivery company [Youtube, 9k Subscribers]
+* [Containers from the Couch](https://www.youtube.com/channel/UCYg157Qy_U7ZR1WUHTq0Q8Q) - learning resources on Container Services [Youtube, 4k Subscribers]
+* [GOTO Conferences](https://www.youtube.com/channel/UCs_tLP3AiwYKwdUHpltJPuA) - GOTO is a software development content and events platform [Youtube, 230k Subscribers]
+
 
 ![Observability](./Resources/Images/observability.png)
 -----
@@ -173,6 +174,7 @@ Other Pandects from the series:
 
 
 ![Serverless](./Resources/Images/serverless.png)
+-----
 #### General
 * [AWS Lambda](https://aws.amazon.com/lambda/)
 * [Azure Functions Serverless Compute](https://azure.microsoft.com/en-us/services/functions/)
@@ -191,6 +193,7 @@ Other Pandects from the series:
 * [Nuclio](https://github.com/nuclio/nuclio) - High-Performance Serverless event and data processing platform [GitHub, 3938 stars]
 
 ![Learning Resources](./Resources/Images/learning_resources.png)
+-----
 #### Kubernetes
 * [Kubernetes Workshop](https://github.com/eon01/kubernetes-workshop) - Gentle introduction to Kubernetes with more than just the basics
 * [Kubernetes Guide](https://github.com/hobby-kube/guide) - Kubernetes clusters for the hobbyist [GitHub, 5021 stars] 
@@ -260,8 +263,8 @@ Other Pandects from the series:
 #### Kafka
 * [strimzi](https://github.com/strimzi/strimzi-kafka-operator) - Apache Kafka running on Kubernetes [GitHub, 2434 stars]
 
-
 -----
+
 ## License [CC0](./LICENSE)
 
 ## Attributions
