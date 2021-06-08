@@ -74,39 +74,6 @@ Other Pandects from the series:
 #### Visualizing
 * [grafana](https://github.com/grafana/grafana) - observability and data visualization platform [GitHub, 42460 stars]
 
-![Security](./Resources/Images/security.png)
------
-#### General Tools
-* [kubesploit](https://github.com/cyberark/kubesploit) - Cross-platform post-exploitation HTTP/2 Command & Control server [GitHub, 475 stars]
-* [consul](https://www.consul.io) - Consul automates networking for simple and secure application delivery
-* [Komiser](https://github.com/mlabouardy/komiser) - Multi-cloud environment inspector for costs and security [GitHub, 2599 stars]
-* [tfsec](https://github.com/tfsec/tfsec) - Security scanner for your Terraform code [GitHub, 2797 stars]
-
-#### Security Audit Tools
-* [kube-bench](https://github.com/aquasecurity/kube-bench) - Checks usage of security best practices as defined in the CIS Kubernetes Benchmark [GitHub, 3755 stars]
-* [Prowler](https://github.com/toniblyx/prowler) - security tool to perform AWS security best practices assessments [GitHub, 3478 stars]
-* [ScoutSuite](https://github.com/toniblyx/prowler) - Multi-Cloud Security Auditing Tool [GitHub, 3478 stars]
-
-#### Secrets
-* [sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) - A Kubernetes controller and tool for one-way encrypted Secrets [GitHub, 3490 stars]
-* [Vault](https://www.vaultproject.io) - Manage Secrets and Protect Sensitive Data
-* [aws-vault](https://github.com/99designs/aws-vault) - securely store and access AWS credentials in development environments [GitHub, 4960 stars]
-* [SOPS: Secrets OPerationS](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets on any platform [GitHub, 7611 stars] 
-
-#### Protocols
-* [Kerberos](https://web.mit.edu/kerberos/)
-* [OpenLDAP](https://www.openldap.org/)
-
-#### Auth, API Gateways etc.
-* [Grant](https://github.com/simov/grant) - OAuth Proxy [GitHub, 3339 stars]
-* [Dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider [GitHub, 5806 stars]
-* [Kong](https://github.com/Kong/kong) - Cloud-Native API Gateway [GitHub, 29353 stars]
-* [Gloo Edge](https://github.com/solo-io/gloo) - Kubernetes-native API Gateway Built on Envoy [GitHub, 2945 stars]
-
-#### Other
-* [Awesome WAF](https://github.com/0xInfection/Awesome-WAF) - Everything about web-application firewalls (WAF) [GitHub, 3598 stars]
-* [PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - Learn ethical hacking [GitHub, 8200 stars]
-
 
 ![Deployment](./Resources/Images/deployment.png)
 -----
@@ -191,6 +158,41 @@ Other Pandects from the series:
 * [Up](https://github.com/apex/up) - deploy infinitely scalable serverless apps, apis, and sites [GitHub, 8230 stars]
 * [Dapr](https://github.com/dapr/dapr) - portable, serverless, event-driven runtime for stateless and stateful microservices [GitHub, 13585 stars]
 * [Nuclio](https://github.com/nuclio/nuclio) - High-Performance Serverless event and data processing platform [GitHub, 3938 stars]
+
+
+![Security](./Resources/Images/security.png)
+-----
+#### General Tools
+* [kubesploit](https://github.com/cyberark/kubesploit) - Cross-platform post-exploitation HTTP/2 Command & Control server [GitHub, 475 stars]
+* [consul](https://www.consul.io) - Consul automates networking for simple and secure application delivery
+* [Komiser](https://github.com/mlabouardy/komiser) - Multi-cloud environment inspector for costs and security [GitHub, 2599 stars]
+* [tfsec](https://github.com/tfsec/tfsec) - Security scanner for your Terraform code [GitHub, 2797 stars]
+
+#### Security Audit Tools
+* [kube-bench](https://github.com/aquasecurity/kube-bench) - Checks usage of security best practices as defined in the CIS Kubernetes Benchmark [GitHub, 3755 stars]
+* [Prowler](https://github.com/toniblyx/prowler) - security tool to perform AWS security best practices assessments [GitHub, 3478 stars]
+* [ScoutSuite](https://github.com/toniblyx/prowler) - Multi-Cloud Security Auditing Tool [GitHub, 3478 stars]
+
+#### Secrets
+* [sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) - A Kubernetes controller and tool for one-way encrypted Secrets [GitHub, 3490 stars]
+* [Vault](https://www.vaultproject.io) - Manage Secrets and Protect Sensitive Data
+* [aws-vault](https://github.com/99designs/aws-vault) - securely store and access AWS credentials in development environments [GitHub, 4960 stars]
+* [SOPS: Secrets OPerationS](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets on any platform [GitHub, 7611 stars] 
+
+#### Protocols
+* [Kerberos](https://web.mit.edu/kerberos/)
+* [OpenLDAP](https://www.openldap.org/)
+
+#### Auth, API Gateways etc.
+* [Grant](https://github.com/simov/grant) - OAuth Proxy [GitHub, 3339 stars]
+* [Dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider [GitHub, 5806 stars]
+* [Kong](https://github.com/Kong/kong) - Cloud-Native API Gateway [GitHub, 29353 stars]
+* [Gloo Edge](https://github.com/solo-io/gloo) - Kubernetes-native API Gateway Built on Envoy [GitHub, 2945 stars]
+
+#### Other
+* [Awesome WAF](https://github.com/0xInfection/Awesome-WAF) - Everything about web-application firewalls (WAF) [GitHub, 3598 stars]
+* [PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - Learn ethical hacking [GitHub, 8200 stars]
+
 
 ![Learning Resources](./Resources/Images/learning_resources.png)
 -----
