@@ -2,10 +2,6 @@
 
 This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was created to help you find and understand almost anything related to Microservices that is available online.
 
-Other Pandects from the series:
-* [The NLP Pandect](https://github.com/ivan-bilan/The-NLP-Pandect)
-
-
 ![Essential-Reading](./Resources/Images/reading_section.png)
 -----
 #### General Resources
@@ -33,6 +29,8 @@ Other Pandects from the series:
 #### Roadmaps
 * [Containers Roadmap](https://github.com/aws/containers-roadmap) - public roadmap for AWS container services [GitHub, 3714 stars]
 
+#### From the Monolith to Microservices
+* [Monolithic to Microservices](https://medium.com/geekculture/monolithic-to-microservices-ce043a3be80c) [Blog, June 2021]
 
 ![Podcasts](./Resources/Images/podcasts.png)
 -----
