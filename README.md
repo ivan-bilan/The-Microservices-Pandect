@@ -19,7 +19,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 
 #### Stories from the Industry
 * [Kubernetes Failure Stories](https://k8s.af/)
-* [How they AWS](https://github.com/upgundecha/howtheyaws) - curated collection of resources on how organizations use AWS [GitHub, 419 stars] 
+* [How they AWS](https://github.com/upgundecha/howtheyaws) - curated collection of resources on how organizations use AWS [GitHub, 435 stars] 
 * [This is My Architecture](https://aws.amazon.com/architecture/this-is-my-architecture/) - Innovative cloud architectures from AWS partners and customers [Video Series, AWS]
 
 #### Compilations & Resource Collections
@@ -27,7 +27,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [Everything AWS](https://app.polymersearch.com/discover/aws) - GitHub search and catalogue of AWS-related repositories
 
 #### Roadmaps
-* [Containers Roadmap](https://github.com/aws/containers-roadmap) - public roadmap for AWS container services [GitHub, 3714 stars]
+* [Containers Roadmap](https://github.com/aws/containers-roadmap) - public roadmap for AWS container services [GitHub, 3792 stars]
 
 #### From the Monolith to Microservices
 * [Monolithic to Microservices](https://medium.com/geekculture/monolithic-to-microservices-ce043a3be80c) [Blog, June 2021]
@@ -56,38 +56,38 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 #### General Monitoring
 * [Prometheus](https://prometheus.io) - open-source systems monitoring and alerting toolkit
 * [Prometheus Federation](https://prometheus.io/docs/prometheus/latest/federation/)
-* [kubewatch](https://github.com/bitnami-labs/kubewatch) - Watch k8s events and trigger Handlers [GitHub, 1996 stars]
-* [cortex](https://github.com/cortexproject/cortex) - multi-tenant, long term Prometheus [GitHub, 4033 stars]
+* [kubewatch](https://github.com/bitnami-labs/kubewatch) - Watch k8s events and trigger Handlers [GitHub, 2062 stars]
+* [cortex](https://github.com/cortexproject/cortex) - multi-tenant, long term Prometheus [GitHub, 4145 stars]
 
 #### Error Monitoring
 * [Sentry](https://sentry.io/)
 
 #### Alerting
 * [Prometheus AlertManager](https://prometheus.io/docs/alerting/latest/alertmanager/)
-* [StreamAlert](https://github.com/airbnb/streamalert) - serverless, real-time data analysis framework for alerting [GitHub, 2538 stars]
+* [StreamAlert](https://github.com/airbnb/streamalert) - serverless, real-time data analysis framework for alerting [GitHub, 2553 stars]
 
 #### Logging
-* [loki](https://github.com/grafana/loki) - horizontally-scalable, highly-available, multi-tenant log aggregation system [GitHub, 13077 stars]
+* [loki](https://github.com/grafana/loki) - horizontally-scalable, highly-available, multi-tenant log aggregation system [GitHub, 13274 stars]
 
 #### Visualizing
-* [grafana](https://github.com/grafana/grafana) - observability and data visualization platform [GitHub, 42460 stars]
+* [grafana](https://github.com/grafana/grafana) - observability and data visualization platform [GitHub, 42846 stars]
 
 
 ![Deployment](./Resources/Images/deployment.png)
 -----
 #### General Deployment Tools
-* [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster [GitHub, 10705 stars]
+* [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster [GitHub, 10864 stars]
 
 #### Zero Downtime Deploys
 ##### Tools:
-* [flagger](https://github.com/fluxcd/flagger) - Canary, A/B Testing and Blue/Green deployments for Kubernetes [GitHub, 2950 stars]
+* [flagger](https://github.com/fluxcd/flagger) - Canary, A/B Testing and Blue/Green deployments for Kubernetes [GitHub, 3023 stars]
 
 #### CI/CD
 ##### General
 * [Tekton](https://tekton.dev/) - open-source framework for creating CI/CD systems
 
 ##### GitOps:
-* [flux](https://github.com/fluxcd/flux) - The GitOps Kubernetes operator [GitHub, 6405 stars]
+* [flux](https://github.com/fluxcd/flux) - The GitOps Kubernetes operator [GitHub, 6468 stars]
 * [ArgoCD](https://argoproj.github.io/argo-cd/) - A declarative, GitOps continuous delivery tool for Kubernetes
 
 
@@ -98,14 +98,14 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 
 ##### AWS
 * [Spot Fleet](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/spot-fleet.html) [AWS Services]
-* [AutoSpotting](https://github.com/AutoSpotting/AutoSpotting) - open source spot market automation tool for EC2 [GitHub, 1946 stars]
+* [AutoSpotting](https://github.com/AutoSpotting/AutoSpotting) - open source spot market automation tool for EC2 [GitHub, 1952 stars]
 
 ##### Autoscaling
-* [keda](https://github.com/kedacore/keda) - Kubernetes-based Event Driven Autoscaling [GitHub, 3284 stars]
+* [keda](https://github.com/kedacore/keda) - Kubernetes-based Event Driven Autoscaling [GitHub, 3373 stars]
 
 ##### General Tools
-* [Komiser](https://github.com/mlabouardy/komiser) - Multi-cloud environment inspector for costs and security [GitHub, 2599 stars]
-* [Infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in your CLI and pull requests [GitHub, 3135 stars]
+* [Komiser](https://github.com/mlabouardy/komiser) - Multi-cloud environment inspector for costs and security [GitHub, 2617 stars]
+* [Infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in your CLI and pull requests [GitHub, 3332 stars]
 
 
 ![Stateful-Workloads](./Resources/Images/stateful_workloads.png)
@@ -120,19 +120,19 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 
 ##### MySQL
 * [MariaDB](https://mariadb.org/) - MariaDB Server: The open source relational database
-* [vitess](https://github.com/fluxcd/flagger) - Canary, A/B Testing and Blue/Green deployments for Kubernetes [GitHub, 2950 stars]
+* [vitess](https://github.com/fluxcd/flagger) - Canary, A/B Testing and Blue/Green deployments for Kubernetes [GitHub, 3023 stars]
 
 ##### PostgreSQL
-* [CrunchyData Operator](https://github.com/CrunchyData/postgres-operator) [GitHub, 1737 stars]
-* [Zalando Operator](https://github.com/zalando/postgres-operator) [GitHub, 1818 stars]
+* [CrunchyData Operator](https://github.com/CrunchyData/postgres-operator) [GitHub, 1796 stars]
+* [Zalando Operator](https://github.com/zalando/postgres-operator) [GitHub, 1857 stars]
 * [Amazon Aurora](https://aws.amazon.com/rds/aurora/) [AWS, Paid Service]
 
 ##### OLAP - Online Analytical Processing
 * [What is OLAP? Cube, Operations & Types in Data Warehouse](https://www.guru99.com/online-analytical-processing.html) [Blog, Feb 2018]
 * [Comparison of ClickHouse, Druid, and Pinot](https://leventov.medium.com/comparison-of-the-open-source-olap-systems-for-big-data-clickhouse-druid-and-pinot-8e042a5ed1c7) [Blog]
-* [Druid](https://github.com/apache/druid/) [GitHub, 10889 stars]
+* [Druid](https://github.com/apache/druid/) [GitHub, 10981 stars]
 * [ClickHouse](https://clickhouse.tech/)
-* [Apache Pinot](https://pinot.apache.org/) / [Pinot on Github](https://github.com/apache/incubator-pinot) [GitHub, 3093 stars] 
+* [Apache Pinot](https://pinot.apache.org/) / [Pinot on Github](https://github.com/apache/incubator-pinot) [GitHub, 3140 stars] 
 
 ##### Object Storage
 * [Ceph](https://ceph.io/) - implements object storage on a single distributed computer cluster
@@ -146,57 +146,57 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [Google CloudFunctions](https://cloud.google.com/functions)
 
 #### Examples and Learning Resources
-* [serverless examples](https://github.com/serverless/examples) - collection of boilerplates and examples of serverless architectures [GitHub, 9009 stars]
-* [Wild Rydes Serverless Workshops](https://github.com/aws-samples/aws-serverless-workshops) - labs to set up serverless applications on AWS [GitHub, 3312 stars]
+* [serverless examples](https://github.com/serverless/examples) - collection of boilerplates and examples of serverless architectures [GitHub, 9103 stars]
+* [Wild Rydes Serverless Workshops](https://github.com/aws-samples/aws-serverless-workshops) - labs to set up serverless applications on AWS [GitHub, 3348 stars]
 
 #### Tools & Frameworks
-* [serverless](https://github.com/serverless/serverless) - Serverless Framework using AWS Lambda, Azure Functions, Google CloudFunctions [GitHub, 39898 stars]
-* [Chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS [GitHub, 7972 stars]
-* [OpenFaaS](https://github.com/openfaas/faas) - Serverless Functions Made Simple [GitHub, 19866 stars]
-* [Up](https://github.com/apex/up) - deploy infinitely scalable serverless apps, apis, and sites [GitHub, 8230 stars]
-* [Dapr](https://github.com/dapr/dapr) - portable, serverless, event-driven runtime for stateless and stateful microservices [GitHub, 13585 stars]
-* [Nuclio](https://github.com/nuclio/nuclio) - High-Performance Serverless event and data processing platform [GitHub, 3938 stars]
+* [serverless](https://github.com/serverless/serverless) - Serverless Framework using AWS Lambda, Azure Functions, Google CloudFunctions [GitHub, 40148 stars]
+* [Chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS [GitHub, 8074 stars]
+* [OpenFaaS](https://github.com/openfaas/faas) - Serverless Functions Made Simple [GitHub, 20031 stars]
+* [Up](https://github.com/apex/up) - deploy infinitely scalable serverless apps, apis, and sites [GitHub, 8250 stars]
+* [Dapr](https://github.com/dapr/dapr) - portable, serverless, event-driven runtime for stateless and stateful microservices [GitHub, 13903 stars]
+* [Nuclio](https://github.com/nuclio/nuclio) - High-Performance Serverless event and data processing platform [GitHub, 3984 stars]
 
 
 ![Security](./Resources/Images/security.png)
 -----
 #### General Tools
-* [kubesploit](https://github.com/cyberark/kubesploit) - Cross-platform post-exploitation HTTP/2 Command & Control server [GitHub, 475 stars]
+* [kubesploit](https://github.com/cyberark/kubesploit) - Cross-platform post-exploitation HTTP/2 Command & Control server [GitHub, 496 stars]
 * [consul](https://www.consul.io) - Consul automates networking for simple and secure application delivery
-* [Komiser](https://github.com/mlabouardy/komiser) - Multi-cloud environment inspector for costs and security [GitHub, 2599 stars]
-* [tfsec](https://github.com/tfsec/tfsec) - Security scanner for your Terraform code [GitHub, 2797 stars]
+* [Komiser](https://github.com/mlabouardy/komiser) - Multi-cloud environment inspector for costs and security [GitHub, 2617 stars]
+* [tfsec](https://github.com/tfsec/tfsec) - Security scanner for your Terraform code [GitHub, 2882 stars]
 
 #### Security Audit Tools
-* [kube-bench](https://github.com/aquasecurity/kube-bench) - Checks usage of security best practices as defined in the CIS Kubernetes Benchmark [GitHub, 3755 stars]
-* [Prowler](https://github.com/toniblyx/prowler) - security tool to perform AWS security best practices assessments [GitHub, 3478 stars]
-* [ScoutSuite](https://github.com/toniblyx/prowler) - Multi-Cloud Security Auditing Tool [GitHub, 3478 stars]
+* [kube-bench](https://github.com/aquasecurity/kube-bench) - Checks usage of security best practices as defined in the CIS Kubernetes Benchmark [GitHub, 3850 stars]
+* [Prowler](https://github.com/toniblyx/prowler) - security tool to perform AWS security best practices assessments [GitHub, 3582 stars]
+* [ScoutSuite](https://github.com/toniblyx/prowler) - Multi-Cloud Security Auditing Tool [GitHub, 3582 stars]
 
 #### Secrets
-* [sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) - A Kubernetes controller and tool for one-way encrypted Secrets [GitHub, 3490 stars]
+* [sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) - A Kubernetes controller and tool for one-way encrypted Secrets [GitHub, 3601 stars]
 * [Vault](https://www.vaultproject.io) - Manage Secrets and Protect Sensitive Data
-* [aws-vault](https://github.com/99designs/aws-vault) - securely store and access AWS credentials in development environments [GitHub, 4960 stars]
-* [SOPS: Secrets OPerationS](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets on any platform [GitHub, 7611 stars] 
+* [aws-vault](https://github.com/99designs/aws-vault) - securely store and access AWS credentials in development environments [GitHub, 5055 stars]
+* [SOPS: Secrets OPerationS](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets on any platform [GitHub, 7817 stars] 
 
 #### Protocols
 * [Kerberos](https://web.mit.edu/kerberos/)
 * [OpenLDAP](https://www.openldap.org/)
 
 #### Auth, API Gateways etc.
-* [Grant](https://github.com/simov/grant) - OAuth Proxy [GitHub, 3339 stars]
-* [Dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider [GitHub, 5806 stars]
-* [Kong](https://github.com/Kong/kong) - Cloud-Native API Gateway [GitHub, 29353 stars]
-* [Gloo Edge](https://github.com/solo-io/gloo) - Kubernetes-native API Gateway Built on Envoy [GitHub, 2945 stars]
+* [Grant](https://github.com/simov/grant) - OAuth Proxy [GitHub, 3376 stars]
+* [Dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider [GitHub, 6096 stars]
+* [Kong](https://github.com/Kong/kong) - Cloud-Native API Gateway [GitHub, 29594 stars]
+* [Gloo Edge](https://github.com/solo-io/gloo) - Kubernetes-native API Gateway Built on Envoy [GitHub, 3030 stars]
 
 #### Other
-* [Awesome WAF](https://github.com/0xInfection/Awesome-WAF) - Everything about web-application firewalls (WAF) [GitHub, 3598 stars]
-* [PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - Learn ethical hacking [GitHub, 8200 stars]
+* [Awesome WAF](https://github.com/0xInfection/Awesome-WAF) - Everything about web-application firewalls (WAF) [GitHub, 3669 stars]
+* [PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - Learn ethical hacking [GitHub, 8381 stars]
 
 
 ![Learning Resources](./Resources/Images/learning_resources.png)
 -----
 #### Kubernetes
 * [Kubernetes Workshop](https://github.com/eon01/kubernetes-workshop) - Gentle introduction to Kubernetes with more than just the basics
-* [Kubernetes Guide](https://github.com/hobby-kube/guide) - Kubernetes clusters for the hobbyist [GitHub, 5021 stars] 
+* [Kubernetes Guide](https://github.com/hobby-kube/guide) - Kubernetes clusters for the hobbyist [GitHub, 5045 stars] 
 * [Learn Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
 * [Introduction to Kubernetes](https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS158x+3T2020/home)
 
@@ -207,11 +207,11 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [Learn Apache Kafka by Confluent](https://developer.confluent.io/)
 
 #### DevOps
-* [DevOps Guide](https://github.com/Tikam02/DevOps-Guide) - from basic to advanced with Interview Questions and Notes [GitHub, 3680 stars]
-* [DevOps Exercises](https://github.com/bregman-arie/devops-exercises) - questions and exercises on technical topics related to DevOps and SRE [GitHub, 8531 stars]
+* [DevOps Guide](https://github.com/Tikam02/DevOps-Guide) - from basic to advanced with Interview Questions and Notes [GitHub, 3746 stars]
+* [DevOps Exercises](https://github.com/bregman-arie/devops-exercises) - questions and exercises on technical topics related to DevOps and SRE [GitHub, 11727 stars]
 
 #### Docker
-* [Docker Curriculum](https://github.com/prakhar1989/docker-curriculum) - comprehensive tutorial on getting started with Docker [GitHub, 4244 stars] 
+* [Docker Curriculum](https://github.com/prakhar1989/docker-curriculum) - comprehensive tutorial on getting started with Docker [GitHub, 4295 stars] 
 
 
 ![Infrastructure as Code](./Resources/Images/infra_as_code.png)
@@ -225,43 +225,43 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [CFEngine](https://cfengine.com/) - automate your infrastructure, security & compliance
 * [Ansible](https://www.ansible.com/) - automation across open hybrid cloud deployments
 * [CHEF](https://www.chef.io/products/chef-infra) - Policy-Based Configuration Management Automation Architecture
-* [Pulumi](https://github.com/pulumi/pulumi) - Modern Infrastructure as Code. Any cloud, any language [GitHub, 8896 stars]
+* [Pulumi](https://github.com/pulumi/pulumi) - Modern Infrastructure as Code. Any cloud, any language [GitHub, 9248 stars]
 
 #### Additional Tooling
-* [Terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform)  [GitHub, 4962 stars]
-* [Checkov](https://github.com/bridgecrewio/checkov) - static code analysis tool for infrastructure-as-code [GitHub, 2775 stars]
+* [Terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform)  [GitHub, 5124 stars]
+* [Checkov](https://github.com/bridgecrewio/checkov) - static code analysis tool for infrastructure-as-code [GitHub, 2899 stars]
 
 #### Examples and Learning Resources
-* [Ansible for DevOps examples](https://github.com/geerlingguy/ansible-for-devops) [GitHub, 4629 stars]
-* [Ansible for Kubernetes Examples](https://github.com/geerlingguy/ansible-for-kubernetes) [GitHub, 440 stars]
+* [Ansible for DevOps examples](https://github.com/geerlingguy/ansible-for-devops) [GitHub, 4747 stars]
+* [Ansible for Kubernetes Examples](https://github.com/geerlingguy/ansible-for-kubernetes) [GitHub, 449 stars]
 
 
 ![Other](./Resources/Images/other_topics.png)
 -----
 #### Streaming Frameworks / Engines
-* [Apache Flink](https://github.com/apache/flink) - stream processing framework [GitHub, 16407 stars]
-* [Apache Beam](https://github.com/apache/beam) - unified programming model for Batch and Streaming [GitHub, 4842 stars]
-* [Apache Storm](https://storm.apache.org/) / [Apache Storm on GitHub](https://github.com/apache/storm) - distributed realtime computation system [GitHub, 6238 stars]
+* [Apache Flink](https://github.com/apache/flink) - stream processing framework [GitHub, 16633 stars]
+* [Apache Beam](https://github.com/apache/beam) - unified programming model for Batch and Streaming [GitHub, 4894 stars]
+* [Apache Storm](https://storm.apache.org/) / [Apache Storm on GitHub](https://github.com/apache/storm) - distributed realtime computation system [GitHub, 6254 stars]
 * [Amazon Kinesis Streams](https://aws.amazon.com/kinesis/) [AWS]
 
 
 #### Effective Containerization
-* [distroless](https://github.com/GoogleContainerTools/distroless) - Language focused docker images, minus the operating system [GitHub, 9770 stars]
+* [distroless](https://github.com/GoogleContainerTools/distroless) - Language focused docker images, minus the operating system [GitHub, 9983 stars]
 
 #### Testing
-* [Terratest](https://github.com/gruntwork-io/terratest) - Go library to write automated tests for your infrastructure code [GitHub, 5289 stars] 
-* [Serverless Offline](https://github.com/dherault/serverless-offline) - Emulate AWS λ and API Gateway locally [GitHub, 4131 stars] 
-* [Moto](https://github.com/spulec/moto) -  easily mock out tests based on AWS infrastructure [GitHub, 4682 stars]
-* [LocalStack](https://github.com/spulec/moto) -  fully functional local AWS cloud stack [GitHub, 4682 stars]
+* [Terratest](https://github.com/gruntwork-io/terratest) - Go library to write automated tests for your infrastructure code [GitHub, 5363 stars] 
+* [Serverless Offline](https://github.com/dherault/serverless-offline) - Emulate AWS λ and API Gateway locally [GitHub, 4177 stars] 
+* [Moto](https://github.com/spulec/moto) -  easily mock out tests based on AWS infrastructure [GitHub, 4777 stars]
+* [LocalStack](https://github.com/spulec/moto) -  fully functional local AWS cloud stack [GitHub, 4777 stars]
 
 #### PaaS - Platform-as-a-service
-* [Empire](https://github.com/remind101/empire) - PaaS built on top of Amazon EC2 Container Service with Heroku like workflow [GitHub, 2644 stars] 
+* [Empire](https://github.com/remind101/empire) - PaaS built on top of Amazon EC2 Container Service with Heroku like workflow [GitHub, 2648 stars] 
 
 #### Container Network Interface (CNI)
-* [CNI](https://github.com/containernetworking/cni) - networking for Linux containers [GitHub, 3524 stars] 
+* [CNI](https://github.com/containernetworking/cni) - networking for Linux containers [GitHub, 3582 stars] 
 
 #### Kafka
-* [strimzi](https://github.com/strimzi/strimzi-kafka-operator) - Apache Kafka running on Kubernetes [GitHub, 2434 stars]
+* [strimzi](https://github.com/strimzi/strimzi-kafka-operator) - Apache Kafka running on Kubernetes [GitHub, 2493 stars]
 
 -----
 
