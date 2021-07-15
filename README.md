@@ -298,11 +298,11 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 <h3 align="center">The Pandect Series also includes</h3>
 
 <p align="middle">
-    <a href="https://github.com/ivan-bilan/The-Engineering-Manager-Pandect">
-      <img src="https://raw.githubusercontent.com/ivan-bilan/The-Engineering-Manager-Pandect/main/Resources/Images/pandect.png" width="359" />
-    </a>
+<a href="https://github.com/ivan-bilan/The-Engineering-Manager-Pandect">
+  <img src="https://raw.githubusercontent.com/ivan-bilan/The-Engineering-Manager-Pandect/main/Resources/Images/em_pandect_promo.png" width="370" />
+</a>
       &nbsp; &nbsp; &nbsp;
     <a href="https://github.com/ivan-bilan/The-NLP-Pandect">
-      <img src="https://raw.githubusercontent.com/ivan-bilan/The-Engineering-Manager-Pandect/main/Resources/Images/nlp_pandect.png" width="350" />
+      <img src="https://raw.githubusercontent.com/ivan-bilan/The-Engineering-Manager-Pandect/main/Resources/Images/nlp_pandect_promo.png" width="370" />
     </a>
 </p>
