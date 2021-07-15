@@ -244,11 +244,14 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [Apache Storm](https://storm.apache.org/) / [Apache Storm on GitHub](https://github.com/apache/storm) - distributed realtime computation system [GitHub, 6254 stars]
 * [Amazon Kinesis Streams](https://aws.amazon.com/kinesis/) [AWS]
 
-
 #### Effective Containerization
 * [distroless](https://github.com/GoogleContainerTools/distroless) - Language focused docker images, minus the operating system [GitHub, 9983 stars]
 
 #### Testing
+##### General
+* [On the Diverse And Fantastical Shapes of Testing by Martin Fowler](https://martinfowler.com/articles/2021-test-shapes.html) [Blog, June 2021]
+
+##### Tooling
 * [Terratest](https://github.com/gruntwork-io/terratest) - Go library to write automated tests for your infrastructure code [GitHub, 5363 stars] 
 * [Serverless Offline](https://github.com/dherault/serverless-offline) - Emulate AWS λ and API Gateway locally [GitHub, 4177 stars] 
 * [Moto](https://github.com/spulec/moto) -  easily mock out tests based on AWS infrastructure [GitHub, 4777 stars]
