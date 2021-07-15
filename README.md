@@ -1,6 +1,8 @@
 ![The-Microservices-Pandect](./Resources/Images/pandect.png)
 
-This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was created to help you find and understand almost anything related to Microservices that is available online.
+<p align="center">
+This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created to help you find and understand almost anything related to Microservices that is available online.
+</p>
 
 ![Essential-Reading](./Resources/Images/reading_section.png)
 -----
@@ -290,3 +292,17 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 
 #### Fonts
 * [Dalek Font](https://www.dafont.com/dalek.font) 
+
+-----
+
+<h3 style="font-size:20px;text-align:center;">The Pandect Series also includes:</h3>
+
+<p align="middle">
+<a href="https://github.com/ivan-bilan/The-Microservices-Pandect">
+  <img src="https://raw.githubusercontent.com/ivan-bilan/The-Microservices-Pandect/main/Resources/Images/pandect.png" width="300" />
+</a>
+  &nbsp; &nbsp; &nbsp; &nbsp;
+<a href="https://github.com/ivan-bilan/The-NLP-Pandect">
+  <img src="https://raw.githubusercontent.com/ivan-bilan/The-Engineering-Manager-Pandect/main/Resources/Images/nlp_pandect.png" width="370" />
+</a>
+</p>
