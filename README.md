@@ -81,6 +81,9 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster [GitHub, 10864 stars]
 
 #### Zero Downtime Deploys
+##### General
+* [Zero-downtime Blue Green Deployments for Microservices](https://medium.com/@dantwining_26268/zero-downtime-blue-green-deployments-for-microservices-7896558623b2) [Blog, August 2020]
+* [Breaking down zero downtime deployments in Kubernetes](https://deepsource.io/blog/zero-downtime-deployment/) [Blog, August 2020]
 ##### Tools:
 * [flagger](https://github.com/fluxcd/flagger) - Canary, A/B Testing and Blue/Green deployments for Kubernetes [GitHub, 3023 stars]
 
