@@ -34,6 +34,9 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 #### From the Monolith to Microservices
 * [Monolithic to Microservices](https://medium.com/geekculture/monolithic-to-microservices-ce043a3be80c) [Blog, June 2021]
 
+#### Project Examples
+* [CNCF Projects App](https://github.com/Azure/cloud-native-app) - project example created with only CNCF graduated projects [GitHub, 66 stars] 
+
 ![Podcasts](./Resources/Images/podcasts.png)
 -----
 * [Cloudcast](https://www.thecloudcast.net) - independent Cloud Computing podcast [Years: 2011 - now, Status: active]
