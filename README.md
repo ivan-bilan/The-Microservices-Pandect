@@ -85,6 +85,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 
 #### Zero Downtime Deploys
 ##### General
+* [Intro to Deployment Strategies: Blue-Green, Canary, and More](https://harness.io/blog/continuous-verification/blue-green-canary-deployment-strategies/) [Blog, January 2021]
 * [Zero-downtime Blue Green Deployments for Microservices](https://medium.com/@dantwining_26268/zero-downtime-blue-green-deployments-for-microservices-7896558623b2) [Blog, August 2020]
 * [Breaking down zero downtime deployments in Kubernetes](https://deepsource.io/blog/zero-downtime-deployment/) [Blog, August 2020]
 ##### Tools:
