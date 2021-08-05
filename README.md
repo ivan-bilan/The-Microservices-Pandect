@@ -18,6 +18,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * [OpenStack](https://www.openstack.org/) - free, open standard cloud computing platform
 * [Digital Ocean](https://www.digitalocean.com/) - DigitalOcean provides developers with cloud services
 * [Linode](https://www.linode.com/) - cloud hosting company that provides virtual private servers
+* [Okteto](https://okteto.com/) - tool to develop applications on Kubernetes
 
 #### Stories from the Industry
 * [Kubernetes Failure Stories](https://k8s.af/)
