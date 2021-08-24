@@ -85,10 +85,11 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster [GitHub, 10976 stars]
 
 #### Zero Downtime Deploys
+There are industry proven strategies to make sure your deploys don't cause any downtime.
+
     <details><summary>Zero Downtime Deploy Strategies</summary>
     <p>
     
-    There are industry proven strategies to make sure your deploys don't cause any downtime:
     - 𝐁𝐥𝐮𝐞/𝐆𝐫𝐞𝐞𝐧 𝐃𝐞𝐩𝐥𝐨𝐲𝐬 - deploy your change to a subset of nodes and redirect some traffic to them, while still using the old version for the remaining traffic. Once you have 
     validated that the traffic to the new nodes is correct, take out the nodes with the old version and redirect all of your requests to new nodes. Power down nodes with the old 
     version.
