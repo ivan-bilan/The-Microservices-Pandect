@@ -86,7 +86,6 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 
 #### Zero Downtime Deploys
 There are industry proven strategies to make sure your deploys don't cause any downtime.
-
     <details><summary>Zero Downtime Deploy Strategies</summary>
     <p>
     
