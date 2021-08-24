@@ -88,7 +88,6 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 There are industry proven strategies to make sure your deploys don't cause any downtime.
     <details><summary>Zero Downtime Deploy Strategies</summary>
     <p>
-    
     - 𝐁𝐥𝐮𝐞/𝐆𝐫𝐞𝐞𝐧 𝐃𝐞𝐩𝐥𝐨𝐲𝐬 - deploy your change to a subset of nodes and redirect some traffic to them, while still using the old version for the remaining traffic. Once you have 
     validated that the traffic to the new nodes is correct, take out the nodes with the old version and redirect all of your requests to new nodes. Power down nodes with the old 
     version.
@@ -96,11 +95,10 @@ There are industry proven strategies to make sure your deploys don't cause any d
     receive any requests. After validation, they are removed.
     - 𝐂𝐚𝐧𝐚𝐫𝐲 𝐃𝐞𝐩𝐥𝐨𝐲𝐬 - in this deployment strategy, you release a new version of your microservice or ML model to a defined subset of users (i.e. 25%) and keep it alive for a 
     prolonged time to make sure everything works as expected. You could technically use this also for A/B testing of your new version.
-    - 𝐑𝐨𝐥𝐥𝐢𝐧𝐠 𝐃𝐞𝐩𝐥𝐨𝐲𝐬 - the simplest option, release your new version of the microservice incrementally node by node or in batches. It's slow, but easy to revert back if needed.
- 
+    - 𝐑𝐨𝐥𝐥𝐢𝐧𝐠 𝐃𝐞𝐩𝐥𝐨𝐲𝐬 - the simplest option, release your new version of the microservice incrementally node by node or in batches. It's slow, but easy to revert back if needed.  
     </p>
     </details>
-    
+
 ##### General
 * [Intro to Deployment Strategies: Blue-Green, Canary, and More](https://harness.io/blog/continuous-verification/blue-green-canary-deployment-strategies/) [Blog, January 2021]
 * [Zero-downtime Blue Green Deployments for Microservices](https://medium.com/@dantwining_26268/zero-downtime-blue-green-deployments-for-microservices-7896558623b2) [Blog, August 2020]
