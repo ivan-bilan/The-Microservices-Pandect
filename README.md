@@ -268,6 +268,17 @@ There are industry proven strategies to make sure your deploys don't cause any d
 #### Effective Containerization
 * [distroless](https://github.com/GoogleContainerTools/distroless) - Language focused docker images, minus the operating system [GitHub, 10130 stars]
 
+#### Load Shedding
+Load Shedding is used to prevent your microservices from an outage by reducing non-essential requests.
+
+##### Learning Resources
+* [AWS re:Invent 2021 - Keeping Netflix reliable using prioritized load shedding](https://www.youtube.com/watch?v=TmNiHbh-6Wg) [YouTube]
+* [DevOneConf 2018 - Acacio Cruz - Google - Load-shedding](https://www.youtube.com/watch?v=XNEIkivvaV4) [YouTube]
+* [Keeping Netflix Reliable Using Prioritized Load Shedding](https://netflixtechblog.com/keeping-netflix-reliable-using-prioritized-load-shedding-6cc827b02f94?gi=9f0270975aac) [Blog, Nov 2020]
+
+##### Tools
+* [Concurrency Limits](https://github.com/Netflix/concurrency-limits) - TCP congestion control to auto-detect concurrency limits for services [GitHub, 2500 stars]
+
 #### Testing
 ##### General
 * [On the Diverse And Fantastical Shapes of Testing by Martin Fowler](https://martinfowler.com/articles/2021-test-shapes.html) [Blog, June 2021]
