@@ -56,7 +56,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 ![Podcasts](./Resources/Images/podcasts.png)
 -----
 * 🎙️ [Cloudcast](https://www.thecloudcast.net) - independent Cloud Computing podcast [Years: 2011 - now, Status: active]
-* 🎙️ [PodCTL](https://www.podctl.com) - podcast focused on Cloud-native applications (by Red Hat) [Years: 2017 - now, Status: active]
+* 🎙️ [PodCTL](https://podcasts.apple.com/us/podcast/podctl-enterprise-kubernetes/id1270983443m) - podcast focused on Cloud-native applications (by Red Hat) [Years: 2017 - now, Status: active]
 * 🎙️ [Kubernetes Podcast](https://kubernetespodcast.com) - Kubernetes Podcast from Google [Years: 2018 - now, Status: active]
 * 🎙️ [Data Engineering Podcast](https://www.dataengineeringpodcast.com) - Data management, microservices, ETL and more [Years: 2017 - now, Status: active]
 * 🎙️ [The Secure Developer](https://www.devseccon.com/the-secure-developer-podcast/) - A podcast about security for developers [Years: 2017 - now, Status: active]
