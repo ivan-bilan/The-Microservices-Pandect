@@ -23,7 +23,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 -----
 #### General Resources
 * 📙 [Microservices (Martin Fawler & James Lewis)](https://martinfowler.com/articles/microservices.html) [Blog, March 2014]
-* [What are Microservices?](https://microservices.io/index.html) - Chris Richardson, Author of ["Microservices Patterns"](https://microservices.io/book)
+* 📙 [What are Microservices?](https://microservices.io/index.html) - Chris Richardson, Author of ["Microservices Patterns"](https://microservices.io/book)
 * 📙 [The Architecture Behind A One-Person Tech Startup](https://anthonynsimon.com/blog/one-man-saas-architecture/) [Blog, April 2021]
 
 #### Platforms
@@ -75,8 +75,8 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 ![Observability](./Resources/Images/observability.png)
 -----
 #### General Monitoring
-* [Prometheus](https://prometheus.io) - open-source systems monitoring and alerting toolkit
-* [Prometheus Federation](https://prometheus.io/docs/prometheus/latest/federation/)
+* ⭐ [Prometheus](https://prometheus.io) - open-source systems monitoring and alerting toolkit
+* ⭐ [Prometheus Federation](https://prometheus.io/docs/prometheus/latest/federation/)
 * ⭐ [kubewatch](https://github.com/bitnami-labs/kubewatch) - Watch k8s events and trigger Handlers [GitHub, 2402 stars]
 * ⭐ [cortex](https://github.com/cortexproject/cortex) - multi-tenant, long term Prometheus [GitHub, 4820 stars]
 
@@ -84,7 +84,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * 🔱 [Sentry](https://sentry.io/)
 
 #### Alerting
-* [Prometheus AlertManager](https://prometheus.io/docs/alerting/latest/alertmanager/)
+* ⭐ [Prometheus AlertManager](https://prometheus.io/docs/alerting/latest/alertmanager/)
 * ⭐ [StreamAlert](https://github.com/airbnb/streamalert) - serverless, real-time data analysis framework for alerting [GitHub, 2708 stars]
 
 #### Logging
@@ -152,22 +152,22 @@ There are industry proven strategies to make sure your deploys don't cause any d
 * 🗂 [OperatorHub.io](https://operatorhub.io/) - OperatorHub.io is a resource for the Kubernetes community to find and share Operators
 
 ##### In-memory
-* [redis](https://redis.io) - Redis is an open source, in-memory data structure store
+* ⭐ [redis](https://redis.io) - Redis is an open source, in-memory data structure store
 
 ##### MySQL
-* [MariaDB](https://mariadb.org/) - MariaDB Server: The open source relational database
+* 🔱 [MariaDB](https://mariadb.org/) - MariaDB Server: The open source relational database
 * ⭐ [vitess](https://github.com/fluxcd/flagger) - Canary, A/B Testing and Blue/Green deployments for Kubernetes [GitHub, 3778 stars]
 
 ##### PostgreSQL
 * ⭐ [CrunchyData Operator](https://github.com/CrunchyData/postgres-operator) [GitHub, 2871 stars]
 * ⭐ [Zalando Operator](https://github.com/zalando/postgres-operator) [GitHub, 2676 stars]
-* [Amazon Aurora](https://aws.amazon.com/rds/aurora/) [AWS, Paid Service]
+* 🔱 [Amazon Aurora](https://aws.amazon.com/rds/aurora/) [AWS, Paid Service]
 
 ##### OLAP - Online Analytical Processing
 * 📙 [What is OLAP? Cube, Operations & Types in Data Warehouse](https://www.guru99.com/online-analytical-processing.html) [Blog, Feb 2018]
-* [Comparison of ClickHouse, Druid, and Pinot](https://leventov.medium.com/comparison-of-the-open-source-olap-systems-for-big-data-clickhouse-druid-and-pinot-8e042a5ed1c7) [Blog]
+* 📙 [Comparison of ClickHouse, Druid, and Pinot](https://leventov.medium.com/comparison-of-the-open-source-olap-systems-for-big-data-clickhouse-druid-and-pinot-8e042a5ed1c7) [Blog]
 * ⭐ [Druid](https://github.com/apache/druid/) [GitHub, 11951 stars]
-* [ClickHouse](https://clickhouse.tech/)
+* ⭐ [ClickHouse](https://clickhouse.tech/)
 * ⭐ [Apache Pinot](https://pinot.apache.org/) / [Pinot on Github](https://github.com/apache/incubator-pinot) [GitHub, 4120 stars] 
 
 ##### Object Storage
@@ -198,7 +198,7 @@ There are industry proven strategies to make sure your deploys don't cause any d
 -----
 #### General Tools
 * ⭐ [kubesploit](https://github.com/cyberark/kubesploit) - Cross-platform post-exploitation HTTP/2 Command & Control server [GitHub, 911 stars]
-* [consul](https://www.consul.io) - Consul automates networking for simple and secure application delivery
+* 🔱 [consul](https://www.consul.io) - Consul automates networking for simple and secure application delivery
 * ⭐ [Komiser](https://github.com/mlabouardy/komiser) - Multi-cloud environment inspector for costs and security [GitHub, 2824 stars]
 * ⭐ [tfsec](https://github.com/tfsec/tfsec) - Security scanner for your Terraform code [GitHub, 4866 stars]
 
@@ -209,13 +209,14 @@ There are industry proven strategies to make sure your deploys don't cause any d
 
 #### Secrets
 * ⭐ [sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) - A Kubernetes controller and tool for one-way encrypted Secrets [GitHub, 5287 stars]
-* [Vault](https://www.vaultproject.io) - Manage Secrets and Protect Sensitive Data
+* 🔱 [Vault](https://www.vaultproject.io) - Manage Secrets and Protect Sensitive Data
 * ⭐ [aws-vault](https://github.com/99designs/aws-vault) - securely store and access AWS credentials in development environments [GitHub, 6551 stars]
 * ⭐ [SOPS: Secrets OPerationS](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets on any platform [GitHub, 10404 stars] 
 
 #### Protocols
-* [Kerberos](https://web.mit.edu/kerberos/)
-* [OpenLDAP](https://www.openldap.org/)
+* ⭐ [Kerberos](https://web.mit.edu/kerberos/)
+* ⭐ [OpenLDAP](https://www.openldap.org/)
+* ⭐ [OIDC](https://openid.net/connect/)
 
 #### Auth, API Gateways etc.
 * ⭐ [Grant](https://github.com/simov/grant) - OAuth Proxy [GitHub, 3661 stars]
@@ -233,14 +234,14 @@ There are industry proven strategies to make sure your deploys don't cause any d
 #### Kubernetes
 * ⭐ [Kubernetes Workshop](https://github.com/eon01/kubernetes-workshop) - Gentle introduction to Kubernetes with more than just the basics
 * ⭐ [Kubernetes Guide](https://github.com/hobby-kube/guide) - Kubernetes clusters for the hobbyist [GitHub, 5241 stars] 
-* [Learn Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
-* [Introduction to Kubernetes](https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS158x+3T2020/home)
+* 📙 [Learn Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
+* 📙 [Introduction to Kubernetes](https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS158x+3T2020/home)
 
 #### AWS
 * 📙 [Understanding Amazon EC2 Terminology](https://levelup.gitconnected.com/understanding-amazon-ec2-terminology-85be19d0af28) [Blog, Oct 2018]
 
 #### Kafka
-* [Learn Apache Kafka by Confluent](https://developer.confluent.io/)
+* 📙 [Learn Apache Kafka by Confluent](https://developer.confluent.io/)
 
 #### DevOps
 * ⭐ [DevOps Guide](https://github.com/Tikam02/DevOps-Guide) - from basic to advanced with Interview Questions and Notes [GitHub, 5066 stars]
