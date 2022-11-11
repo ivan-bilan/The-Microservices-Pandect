@@ -25,6 +25,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * 📙 [Microservices (Martin Fawler & James Lewis)](https://martinfowler.com/articles/microservices.html) [Blog, March 2014]
 * 📙 [What are Microservices?](https://microservices.io/index.html) - Chris Richardson, Author of ["Microservices Patterns"](https://microservices.io/book)
 * 📙 [The Architecture Behind A One-Person Tech Startup](https://anthonynsimon.com/blog/one-man-saas-architecture/) [Blog, April 2021]
+* 📙 [Fallacies of Distributed Systems](https://architecturenotes.co/fallacies-of-distributed-systems/) [Blog, June 2022]
 
 #### Platforms
 * 🔱 [AWS](https://aws.amazon.com/) - Amazon Web Services on-demand cloud computing platform
@@ -313,6 +314,9 @@ Load Shedding is used to prevent your microservices from an outage by reducing n
 
 #### Kafka
 * ⭐ [strimzi](https://github.com/strimzi/strimzi-kafka-operator) - Apache Kafka running on Kubernetes [GitHub, 3358 stars]
+
+#### Documenting Architectural Design
+* 📙 [Companies Using RFCs or Design Docs and Examples of These](https://blog.pragmaticengineer.com/rfcs-and-design-docs/) - from Pragmatic Engineer [Blog, June 2022]
 
 -----
 
