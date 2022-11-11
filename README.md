@@ -19,6 +19,23 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 > 
 > 🎙️ - a resource you can listen to
 
+### <p align="center"><b>Table of Contents</b></p>
+
+| 📇 Main Section  | 🗃️ Sub-sections Sample |
+| ------------- | ------------- |
+| [Essential Reading](https://github.com/ivan-bilan/The-Microservices-Pandect#)  | [General Resources](https://github.com/ivan-bilan/The-Microservices-Pandect#general-resources), [Platforms](https://github.com/ivan-bilan/The-Microservices-Pandect#platforms) |
+| [Podcasts](https://github.com/ivan-bilan/The-Microservices-Pandect#-1) | - |
+| [YouTube Channels](https://github.com/ivan-bilan/The-Microservices-Pandect#-2)  | -  |
+| [Observability](https://github.com/ivan-bilan/The-Microservices-Pandect#-3)  | [Alerting](https://github.com/ivan-bilan/The-Microservices-Pandect#alerting), [Visualizing](https://github.com/ivan-bilan/The-Microservices-Pandect#visualizing) |
+| [Deployment](https://github.com/ivan-bilan/The-Microservices-Pandect#-4)  | [General Tools](https://github.com/ivan-bilan/The-Microservices-Pandect#general-deployment-tools), [CI/CD](https://github.com/ivan-bilan/The-Microservices-Pandect#cicd) |
+| [Cost Optimization](https://github.com/ivan-bilan/The-Microservices-Pandect#-5)  | - |
+| [Stateful Workloads](https://github.com/ivan-bilan/The-Microservices-Pandect#-6)  | - |
+| [Serverless](https://github.com/ivan-bilan/The-Microservices-Pandect#-7)  | [Tools and Frameworks](https://github.com/ivan-bilan/The-Microservices-Pandect#tools--frameworks)  |
+| [Security](https://github.com/ivan-bilan/The-Microservices-Pandect#-8)  | -  |
+| [Learning Resources](https://github.com/ivan-bilan/The-Microservices-Pandect#-9)  | [Kubernetes](https://github.com/ivan-bilan/The-Microservices-Pandect#kubernetes), [DevOps](https://github.com/ivan-bilan/The-Microservices-Pandect#devops) |
+| [Infrastructure as Code](https://github.com/ivan-bilan/The-Microservices-Pandect#-10)  | -  |
+| [Other Topics](https://github.com/ivan-bilan/The-Microservices-Pandect#-11)  | [Streaming](https://github.com/ivan-bilan/The-Microservices-Pandect#streaming-frameworks--engines), [Testing](https://github.com/ivan-bilan/The-Microservices-Pandect#testing) |
+
 ![Essential-Reading](./Resources/Images/reading_section.png)
 -----
 #### General Resources
@@ -55,6 +72,8 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * ⭐ [CNCF Projects App](https://github.com/Azure/cloud-native-app) - project example created with only CNCF graduated projects [GitHub, 139 stars] 
 
 ![Podcasts](./Resources/Images/podcasts.png)
+[🔙 Back to the Table of Contents](https://github.com/ivan-bilan/The-Microservices-Pandect#table-of-contents)
+
 -----
 * 🎙️ [Cloudcast](https://www.thecloudcast.net) - independent Cloud Computing podcast [Years: 2011 - now, Status: active]
 * 🎙️ [PodCTL](https://podcasts.apple.com/us/podcast/podctl-enterprise-kubernetes/id1270983443m) - podcast focused on Cloud-native applications (by Red Hat) [Years: 2017 - now, Status: active]
@@ -75,6 +94,8 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 
 ![Observability](./Resources/Images/observability.png)
 -----
+[🔙 Back to the Table of Contents](https://github.com/ivan-bilan/The-Microservices-Pandect#table-of-contents)
+
 #### General Monitoring
 * ⭐ [Prometheus](https://prometheus.io) - open-source systems monitoring and alerting toolkit
 * ⭐ [Prometheus Federation](https://prometheus.io/docs/prometheus/latest/federation/)
@@ -97,6 +118,8 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 
 ![Deployment](./Resources/Images/deployment.png)
 -----
+[🔙 Back to the Table of Contents](https://github.com/ivan-bilan/The-Microservices-Pandect#table-of-contents)
+
 #### General Deployment Tools
 * ⭐ [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster [GitHub, 12667 stars]
 
@@ -130,6 +153,8 @@ There are industry proven strategies to make sure your deploys don't cause any d
 
 ![Cost-Optimization](./Resources/Images/cost_optimization.png)
 -----
+[🔙 Back to the Table of Contents](https://github.com/ivan-bilan/The-Microservices-Pandect#table-of-contents)
+
 ##### General
 * 📙 [The Cost of Cloud, a Trillion Dollar Paradox](https://a16z.com/2021/05/27/cost-of-cloud-paradox-market-cap-cloud-lifecycle-scale-growth-repatriation-optimization/) [Blog, May 2021]
 
@@ -147,6 +172,8 @@ There are industry proven strategies to make sure your deploys don't cause any d
 
 ![Stateful-Workloads](./Resources/Images/stateful_workloads.png)
 -----
+[🔙 Back to the Table of Contents](https://github.com/ivan-bilan/The-Microservices-Pandect#table-of-contents)
+
 #### Databases and Operators
 
 ##### General
@@ -177,6 +204,8 @@ There are industry proven strategies to make sure your deploys don't cause any d
 
 ![Serverless](./Resources/Images/serverless.png)
 -----
+[🔙 Back to the Table of Contents](https://github.com/ivan-bilan/The-Microservices-Pandect#table-of-contents)
+
 #### General
 * 🔱 [AWS Lambda](https://aws.amazon.com/lambda/)
 * 🔱 [Azure Functions Serverless Compute](https://azure.microsoft.com/en-us/services/functions/)
@@ -197,6 +226,8 @@ There are industry proven strategies to make sure your deploys don't cause any d
 
 ![Security](./Resources/Images/security.png)
 -----
+[🔙 Back to the Table of Contents](https://github.com/ivan-bilan/The-Microservices-Pandect#table-of-contents)
+
 #### General Tools
 * ⭐ [kubesploit](https://github.com/cyberark/kubesploit) - Cross-platform post-exploitation HTTP/2 Command & Control server [GitHub, 911 stars]
 * 🔱 [consul](https://www.consul.io) - Consul automates networking for simple and secure application delivery
@@ -232,6 +263,8 @@ There are industry proven strategies to make sure your deploys don't cause any d
 
 ![Learning Resources](./Resources/Images/learning_resources.png)
 -----
+[🔙 Back to the Table of Contents](https://github.com/ivan-bilan/The-Microservices-Pandect#table-of-contents)
+
 #### Kubernetes
 * ⭐ [Kubernetes Workshop](https://github.com/eon01/kubernetes-workshop) - Gentle introduction to Kubernetes with more than just the basics
 * ⭐ [Kubernetes Guide](https://github.com/hobby-kube/guide) - Kubernetes clusters for the hobbyist [GitHub, 5241 stars] 
@@ -254,6 +287,8 @@ There are industry proven strategies to make sure your deploys don't cause any d
 
 ![Infrastructure as Code](./Resources/Images/infra_as_code.png)
 -----
+[🔙 Back to the Table of Contents](https://github.com/ivan-bilan/The-Microservices-Pandect#table-of-contents)
+
 #### Infrastructure as Code Tools
 * ⭐ [Terraform](https://www.terraform.io/) - open-source infrastructure as code software tool for consistent CLI workflow
 * 🔱 [CloudFormation](https://aws.amazon.com/cloudformation/) - cloud provisioning with infrastructure as code for AWS
@@ -276,6 +311,8 @@ There are industry proven strategies to make sure your deploys don't cause any d
 
 ![Other](./Resources/Images/other_topics.png)
 -----
+[🔙 Back to the Table of Contents](https://github.com/ivan-bilan/The-Microservices-Pandect#table-of-contents)
+
 #### Streaming Frameworks / Engines
 * ⭐ [Apache Flink](https://github.com/apache/flink) - stream processing framework [GitHub, 19506 stars]
 * ⭐ [Apache Beam](https://github.com/apache/beam) - unified programming model for Batch and Streaming [GitHub, 5760 stars]
