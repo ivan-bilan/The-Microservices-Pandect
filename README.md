@@ -341,7 +341,7 @@ Load Shedding is used to prevent your microservices from an outage by reducing n
 * ⭐ [Terratest](https://github.com/gruntwork-io/terratest) - Go library to write automated tests for your infrastructure code [GitHub, 6494 stars] 
 * ⭐ [Serverless Offline](https://github.com/dherault/serverless-offline) - Emulate AWS λ and API Gateway locally [GitHub, 4747 stars] 
 * ⭐ [Moto](https://github.com/spulec/moto) -  easily mock out tests based on AWS infrastructure [GitHub, 6186 stars]
-* ⭐ [LocalStack](https://github.com/spulec/moto) -  fully functional local AWS cloud stack [GitHub, 6186 stars]
+* ⭐ [LocalStack](https://github.com/localstack/localstack) -  fully functional local AWS cloud stack [GitHub, 44.6k stars]
 
 #### PaaS - Platform-as-a-service
 * ⭐ [Empire](https://github.com/remind101/empire) - PaaS built on top of Amazon EC2 Container Service with Heroku like workflow [GitHub, 2672 stars] 
